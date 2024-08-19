@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": "f8c2",
+      "title": "Third Article",
+      "content": "Another example!"
+    },
+    {
+      "id": "8d9f",
+      "title": "Third Article",
+      "content": "Another example!"
+    },
+    {
+      "id": 3,
+      "title": "Third Article",
+      "content": "Another example!"
+    }
+  ]
+}
